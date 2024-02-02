@@ -1,0 +1,33 @@
+span {
+    color: #b60000;
+  }
+  
+  .spanCLR {
+    color: #296094;
+  }
+  
+  .spanAREA {
+    color: #2da4a8;
+  }
+
+  #skills {
+    font-size: 12px;
+  }
+
+  #small {
+    font-size: 10px;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+
+  .flex-container > a {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 1px solid blue;
+    
+  }
